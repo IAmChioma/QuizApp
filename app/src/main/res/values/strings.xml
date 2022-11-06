@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="i_don_t_know">I don\'t know</string>
+    <string name="paused">paused</string>
+    <string name="running">running</string>
+    <string name="_2_when_the_activity_is_no_longer_in_the_memory_it_is_said_to_be_in_the_state">2). When the Activity is no longer in the memory, it is said to be in the ________ state.</string>
+    <string name="_1_the_view_class_is_the_basic_building_block_for_all_ui_components">1). The View class is the basic building block for all UI components.</string>
+    <string name="destroyed">destroyed</string>
+    <string name="_3_choose_the_correct_kotlin_code_s_for_the_given_java_code_uri_uri_uri_parse_quot_http_www_google_com_quot_intent_it_new_intent_intent_action_view_uri">3). Choose the correct Kotlin code(s) for the given Java Code. Uri uri = Uri.parse(\"http://www.google.com\"); Intent it = new Intent(Intent.ACTION_VIEW,uri);</string>
+    <string name="val_uri_uri_parse_quot_http_www_google_com_quot_val_it_intent_intent_action_view_uri">val uri = Uri.parse(\"http://www.google.com\"); val it = Intent(Intent.ACTION_VIEW,uri);</string>
+    <string name="none_of_the_above">None of the above</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="val_uri_uri_uri_parse_quot_http_www_google_com_quot_val_it_intent_intent_intent_action_view_uri">val uri:Uri = Uri.parse(\"http://www.google.com\"); val it:Intent = Intent(Intent.ACTION_VIEW,uri);</string>
+</resources>
